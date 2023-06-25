@@ -9,12 +9,10 @@ create table book
 );
 
 
-
 insert into book values('B01', 'Let us C', 'Y.Kanetkar', 'C', '2nd');
-insert into book values('B02', 'Core Java', 'R.N.Rao', 'Java', '7th');
-insert into book values('B03', 'Textbook of RDBMS', 'V.H.Bankar', 'RDBMS', '6th');
+insert into book values('B02', 'Core Java', 'R.N.Rao', 'Python', '5th');
+insert into book values('B03', 'Core Python', 'N.Rao', 'RDBMS', '6th');
 insert into book values('B04', 'Think Python', 'A.B.Downey', 'Python', '2nd');
-insert into book values('B05', 'Java Complete Reference', 'Herbert Schildt', 'Java', '11th');
+insert into book values('B05', 'Database System Concepts', 'H.F.Korth', 'RDBMS', '5th');
 insert into book values('B06', 'Operating System Concepts', 'P.B.Galvin', 'Operating Systems', '9th');
-insert into book values('B07', 'RDBMS and Oracle', 'S.Ashok Kumar', 'RDBMS', '2nd');
-insert into book values('B08', 'Introduction to Algorithms', 'T.Cormen', 'Algorithms', '3rd');
+insert into book values('B07', 'Programming in C', 'Reema Thareja', 'C', '3rd');
